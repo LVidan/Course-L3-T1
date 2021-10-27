@@ -1,0 +1,16 @@
+C:\Users\vidan\Desktop\domaci_p3_z1\domaci_p3_z1\bin\Debug\net5.0\domaci_p3_z1.exe
+C:\Users\vidan\Desktop\domaci_p3_z1\domaci_p3_z1\bin\Debug\net5.0\domaci_p3_z1.deps.json
+C:\Users\vidan\Desktop\domaci_p3_z1\domaci_p3_z1\bin\Debug\net5.0\domaci_p3_z1.runtimeconfig.json
+C:\Users\vidan\Desktop\domaci_p3_z1\domaci_p3_z1\bin\Debug\net5.0\domaci_p3_z1.runtimeconfig.dev.json
+C:\Users\vidan\Desktop\domaci_p3_z1\domaci_p3_z1\bin\Debug\net5.0\domaci_p3_z1.dll
+C:\Users\vidan\Desktop\domaci_p3_z1\domaci_p3_z1\bin\Debug\net5.0\ref\domaci_p3_z1.dll
+C:\Users\vidan\Desktop\domaci_p3_z1\domaci_p3_z1\bin\Debug\net5.0\domaci_p3_z1.pdb
+C:\Users\vidan\Desktop\domaci_p3_z1\domaci_p3_z1\obj\Debug\net5.0\domaci_p3_z1.csproj.AssemblyReference.cache
+C:\Users\vidan\Desktop\domaci_p3_z1\domaci_p3_z1\obj\Debug\net5.0\domaci_p3_z1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidan\Desktop\domaci_p3_z1\domaci_p3_z1\obj\Debug\net5.0\domaci_p3_z1.AssemblyInfoInputs.cache
+C:\Users\vidan\Desktop\domaci_p3_z1\domaci_p3_z1\obj\Debug\net5.0\domaci_p3_z1.AssemblyInfo.cs
+C:\Users\vidan\Desktop\domaci_p3_z1\domaci_p3_z1\obj\Debug\net5.0\domaci_p3_z1.csproj.CoreCompileInputs.cache
+C:\Users\vidan\Desktop\domaci_p3_z1\domaci_p3_z1\obj\Debug\net5.0\domaci_p3_z1.dll
+C:\Users\vidan\Desktop\domaci_p3_z1\domaci_p3_z1\obj\Debug\net5.0\ref\domaci_p3_z1.dll
+C:\Users\vidan\Desktop\domaci_p3_z1\domaci_p3_z1\obj\Debug\net5.0\domaci_p3_z1.pdb
+C:\Users\vidan\Desktop\domaci_p3_z1\domaci_p3_z1\obj\Debug\net5.0\domaci_p3_z1.genruntimeconfig.cache

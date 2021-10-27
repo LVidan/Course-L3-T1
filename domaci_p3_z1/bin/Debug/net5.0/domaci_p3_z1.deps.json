@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "domaci_p3_z1/1.0.0": {
+        "runtime": {
+          "domaci_p3_z1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "domaci_p3_z1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
